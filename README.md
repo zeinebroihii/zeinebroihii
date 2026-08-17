@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zeineb 👋
+# Hi, I'm Zeineb
 
 ### Cloud & DevOps Engineer
 
@@ -14,15 +14,13 @@ Hands-on experience building and automating cloud infrastructure across **Azure,
 
 ---
 
-### 🚀 Currently
+### Background
 
-End-of-Studies Intern at **Talan**, architecting **NEXUS**, a Salesforce-based B2B platform integrating Agentforce AI agents, blockchain escrow smart contracts, GPS logistics tracking, and DocuSign workflows, with a Salesforce DevOps Center pipeline (Scrum, sandbox → production).
-
-Engineering degree (BAC+5) in Cloud & DevOps Engineering at **ESPRIT**, Tunis.
+Engineering degree (BAC+5) in Cloud & DevOps Engineering from **ESPRIT**, Tunis. Experience automating cloud infrastructure across Azure, AWS, and OpenStack, spanning CI/CD pipeline design, Infrastructure as Code, container orchestration, and IAM security, built across internships at **Talan**, **Smartovate**, and **SasCode / Timsoft Group**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Infrastructure as Code**
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -59,7 +57,7 @@ Engineering degree (BAC+5) in Cloud & DevOps Engineering at **ESPRIT**, Tunis.
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - **[Nexus](https://github.com/zeinebroihii/ecommerce-platform)**: Salesforce B2B/B2C commerce platform with Agentforce AI agents, Web3 USDC escrow, and live GPS delivery tracking.
 - **Talanted**: 13-agent AI pipeline generating production React + Tailwind interfaces from prompts, images, PDFs, or Figma files, with LLM fallback across Groq, Gemini, GPT-4o, and Mistral via LangChain/ChromaDB RAG.
